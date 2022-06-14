@@ -2,8 +2,8 @@
 This Project Analysed Canadian Immigration data from 1980 to 2013 gotten from kaggle.
 The top 5 countries with the highest number of Migrants to canada over the years are: India, China, UK, Philipine and Pakistan.
 1,714,011 migrants came from developed regions while 4,695,142 came from developing regions.
-AUk, USA, Poland< France, Romania are the top 5 developed Countries that Migrated.
-Asians migrated the most with 3,317,794 migrants, Europe with 1,410,947 Migrants, cLatin Americans and the Caribbeans with 765,148 Migrants, Africa with 618,948 Migrants Nothern America with 241,142, The Oceanians  with 55,174 Migrants.
+AUk, USA, Poland, France, Romania are the top 5 developed Countries that Migrated.
+Asians migrated the most with 3,317,794 migrants, Europe with 1,410,947 Migrants, Latin Americans and the Caribbeans with 765,148 Migrants, Africa with 618,948 Migrants Nothern America with 241,142, The Oceanians  with 55,174 Migrants.
 Asians with most migrants to Canada are India 691,904 Migrants, China 659,962, Philipines 511,391, Pakistan 241,600, Iran 175,923.
 Asians with least migrants of Migrants to Canada are Maldives with 30 Migrants, Qatar 157, Oman 224, China, Macao Special Administrative Region 284, Turkmenistan 310.
 Europeans with most migrants to Canada are UK 551,500 Migrants, Poland 	139,241 , France 109,091, Romania 93,585, Portugal 74,167 Migrants.
